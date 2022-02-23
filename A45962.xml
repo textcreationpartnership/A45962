@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verses spoken at the appearance of the King and Queene, Dvke and Dutchesse of York in Christ-church Hall, Oxford Sept. 29, 1663 By Th. Ireland ...</title>
+            <author>Ireland, Thomas, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45962</idno>
+            <idno type="STC">Wing I296</idno>
+            <idno type="STC">ESTC R15051</idno>
+            <idno type="EEBO-CITATION">13344097</idno>
+            <idno type="OCLC">ocm 13344097</idno>
+            <idno type="VID">99154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99154)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 458:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Verses spoken at the appearance of the King and Queene, Dvke and Dutchesse of York in Christ-church Hall, Oxford Sept. 29, 1663 By Th. Ireland ...</title>
+                  <author>Ireland, Thomas, Sir.</author>
+                  <author>Laurence, Thomas, 1645?-1714. Verses spoken to the King, Qveen, and Dutchesse of Yorke.</author>
+               </titleStmt>
+               <extent>7 p., [2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall for R. Davis ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Portrait of Charles II engraved by A. Hertochs inserted as frontispiece.</note>
+                  <note>Verses spoken to the King, Qveen, and Dutchesse of Yorke in St. John's library in Oxford, attributed to T. Lawrence.  4 p. at end; half t.p. before main t.p.</note>
+                  <note>Imperfect: Portrait of Charles II and t.p. for Verses spoken to the King, Qveen, and Dutchesse of Yorke are lacking on film.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:99154:1"/>
+            <pb facs="tcp:99154:1" rendition="simple:additions"/>
+            <p>
+               <hi>VERSES</hi> Spoken to the KING, QVEEN, and <hi>D<g ref="char:V">Ʋ</g>TCHESSE</hi> of YORKE in S<hi rend="sup">t</hi> JOHN's Library in <hi>Oxford.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:99154:2"/>
+            <pb facs="tcp:99154:2"/>
+            <p>VERSES SPOKEN AT THE Appearance of the King and Queene, <hi>D<g ref="char:V">Ʋ</g>KE</hi> and <hi>D<g ref="char:V">Ʋ</g>TCHESSE</hi> of <hi>York,</hi> In CHRIST-CHURCH Hall, <hi>OXFORD, Sept:</hi> 29. 1663.</p>
+            <p>
+               <hi>By</hi> TH: IRELAND <hi>St. Ch: Ch:</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <p>ACADEMIA OXONIESIS</p>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>H. Hall,</hi> for <hi>R. Davis</hi> according to the Authors own Copies, being more Correct then thoſe printed at <hi>London,</hi> without his conſent, or knowledge. 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:99154:3"/>
+            <pb n="3" facs="tcp:99154:3"/>
+            <head>Verſes ſpoken at the Appearance of the King and Queen, <hi>D<g ref="char:V">Ʋ</g>KE</hi> and <hi>D<g ref="char:V">Ʋ</g>TCHESSE</hi> of YORK, In Chriſt-Church Hall, Septemb. 29. 1663.</head>
+            <div type="part">
+               <lg>
+                  <head>
+                     <hi>I.</hi> To the KING.</head>
+                  <l>TIs He, 'tis He indeed, it muſt be ſo;</l>
+                  <l>None but that Child unto this Man could grow.</l>
+                  <l>Wonder of Fate! A KING out of a PRINCE</l>
+                  <l>Expos'd to deſperate perils ſo long ſince.</l>
+                  <l>What humane Wolf, or yet more kind Wild beaſt,</l>
+                  <l>Caſt from your own, hath took you to her breaſt,</l>
+                  <l>And brought you up, till by your Vertues known,</l>
+                  <l>Man dar'd no longer keep you from the Throne?</l>
+               </lg>
+               <lg>
+                  <l>You come like <hi>Phoebus</hi> ſtriving from a Cloud,</l>
+                  <l>Increaſing brightneſs as he quits the ſhroud:</l>
+                  <l>And as he drawes out by his Summer rayes</l>
+                  <l>The ſleeping Inſects to their ſeveral plays;</l>
+                  <l>With greater power your warmer influence calls</l>
+                  <l>Our dormant Houſhold-gods forth from theſe Walls:</l>
+                  <l>And I their <hi>Genius,</hi> in your abſence mute,</l>
+                  <l>Like <hi>Memnon</hi>'s Statue, your approach ſalute.</l>
+               </lg>
+               <pb n="4" facs="tcp:99154:4"/>
+               <lg>
+                  <l>Let Roman quils the buſineſs undertake,</l>
+                  <l>Great Panegyricks of your Worth to make;</l>
+                  <l>This place, where taken from our Parents charge</l>
+                  <l>On your Munificence we live at large;</l>
+                  <l>I will not grieve you with repeated harms,</l>
+                  <l>Nor tire your Modeſty with praiſing charms:</l>
+                  <l>But greet the kind appearance of your face,</l>
+                  <l>Which both amazeth and revives this place;</l>
+                  <l>And to the Nobleſt born we boaſt and ſing,</l>
+                  <l>By mean men made, we're nouriſh'd by a KING:</l>
+                  <l>For which we humbly thank you, and confeſs,</l>
+                  <l>Our Aliment, our Learning, and our Dreſs</l>
+                  <l>Is all from you; And this great Structure ſtands</l>
+                  <l>Imperfect, to be finiſh'd by your Hands,</l>
+                  <l>And hath conſum'd numbers of golden ſhowres,</l>
+                  <l>But ſeems not ſatisfy'd till fill'd with yours.</l>
+               </lg>
+               <lg>
+                  <l>Let me not live, Great powers my ſoul invade,</l>
+                  <l>I feel my ſelf thinning into a ſhade.</l>
+                  <l>What Glorie's that, that hovers by your ſide,</l>
+                  <l>And gives you the imbraces of a Bride?</l>
+                  <l>Have you been medling with Celeſtial fire,</l>
+                  <l>A Model of your own thus to inſpire?</l>
+                  <l>Or is She Siſter to <hi>Pygmalion</hi>'s Wife,</l>
+                  <l>The ſecond Ivory that ere took life?</l>
+                  <l>Or is <hi>Aſtraea</hi> wood from Heaven again?</l>
+                  <l>Who then ſhall take exceptions at your Reign?</l>
+                  <l>Speak, Sir, What is She? for no other eye</l>
+                  <l>Can take the height of Her Divinity.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:99154:4"/>
+               <lg>
+                  <head>II. <hi>To the</hi> QUEEN.</head>
+                  <l>OR will you pleaſe, ſweet Splend or, let us know</l>
+                  <l>In part, what to the Gods for you we owe?</l>
+                  <l>Are you a real Star indeed, let down</l>
+                  <l>To beautifie this long-obſcured Crown?</l>
+                  <l>Or are you made of <hi>Nectar,</hi> which they ſay</l>
+                  <l>Once being ſpilt made ſuch a milky Way?</l>
+               </lg>
+               <lg>
+                  <l>But if you needs will mortal be, and ſhow</l>
+                  <l>The greater skill by being made below;</l>
+                  <l>Your Mother, ſure, upon Elixirs fed,</l>
+                  <l>The Eaſt blew all its perſumes to her Bed.</l>
+                  <l>Then were you wrap'd in Lillies, which ſo grew</l>
+                  <l>A Coverture o're your own whiter hue,</l>
+                  <l>A Whiteneſs not with ſafety to be ſeen,</l>
+                  <l>Which of a skin of Lillies makes a ſcreen,</l>
+                  <l>Wherein array'd you ſuffer a diſguiſe,</l>
+                  <l>And put on Snow in mercy to our eyes.</l>
+               </lg>
+               <lg>
+                  <l>The mould wherein your Soul is now inſhrin'd</l>
+                  <l>Is ſuch as Chymiſts ſeek, but ne're can find;</l>
+                  <l>Such as, when you can die, it will firſt be told</l>
+                  <l>The Powders found, that can turn all things Gold:</l>
+                  <l>Or ſuch as, when the World was all a Main,</l>
+                  <l>
+                     <hi>Deucalion</hi> kept to make Mankind again.</l>
+                  <l>Such may it prove too, ſince the bliſs we need</l>
+                  <l>Is a young Prince from ſo refin'd a Seed.</l>
+               </lg>
+               <lg>
+                  <l>Whence ere it is your mighty Beauties ſpring,</l>
+                  <l>Their ſtreams loſe nought by running towards your <hi>King,</hi>
+                  </l>
+                  <pb n="6" facs="tcp:99154:5"/>
+                  <l>A ſtop in whoſe fair Breaſt their courſe beguiles,</l>
+                  <l>Where like a Sea of Milke they turn in ſmiles;</l>
+                  <l>As in <hi>Endymion</hi>'s, when the Queen of Night</l>
+                  <l>Had in his boſom crowded all her light.</l>
+               </lg>
+               <lg>
+                  <l>Nor are our hopes exceeded by our prayers,</l>
+                  <l>Your Anceſtors make promiſe for your Heirs;</l>
+                  <l>His, who have made all <hi>Europe</hi> ſhake, and yours,</l>
+                  <l>Who could make Devills ſhe, or at leaſt Moors:</l>
+                  <l>Of darkneſs, baniſh'd by a generall chaſe,</l>
+                  <l>The Trophees are erected in your Face.</l>
+                  <l>Nature had kept her riches yet unſeen,</l>
+                  <l>Had not the <hi>Portuguez</hi> ſuch ſearchers been;</l>
+                  <l>Who to the fame of finding Worlds unknown,</l>
+                  <l>Have ſhewd their art in You of making one.</l>
+               </lg>
+               <lg>
+                  <l>Well might the haughty <hi>Spainard</hi> interpoſe</l>
+                  <l>With all his wealth to hinder ſuch a cloſe,</l>
+                  <l>As hoping no ſucceſs from his Alarms</l>
+                  <l>'Gainſt <hi>Liſbon,</hi> when She lay in CHARLES his Arms;</l>
+                  <l>But that to rival all his power, in you</l>
+                  <l>CHARLES would be maſter of the <hi>indies</hi> too.</l>
+               </lg>
+               <lg>
+                  <l>But Heaven's deſign'd by equal courſe of Fates</l>
+                  <l>The fall and reſtauration of your States:</l>
+                  <l>Your Father, and your Husband, long diſown'd,</l>
+                  <l>Were both by parallel wonders re-inthron'd;</l>
+                  <l>And two recover'd Kingdoms now combine</l>
+                  <l>To twiſt a never-diſcontinuing line,</l>
+                  <l>Supplying from Valour and from Beauties ſtore</l>
+                  <l>Kings to beget, and Queens to bring forth more.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:99154:5"/>
+               <lg>
+                  <head>
+                     <hi>III.</hi> To the <hi>KING</hi> and <hi>QUEEN</hi> concerning the <hi>DUKE</hi> of YORKE.</head>
+                  <l>BUt to remove all fears, behold here ſtands</l>
+                  <l>A Prince that bears Protection in his Hands;</l>
+                  <l>Who in his Infancy to Conqueſt bent,</l>
+                  <l>Did in his Cradle apprehend a Tent;</l>
+                  <l>And ſince by mighty deeds of War hath ſhewn</l>
+                  <l>The Dons a Courage which they ne're durſt own;</l>
+                  <l>Whoſe Arm alone appearing their reliefe</l>
+                  <l>Made him at once their ſuccour and their grief;</l>
+                  <l>Who without him could not withſtand the Foe,</l>
+                  <l>Yet were aſham'd to be defended ſo.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <head>IV. <hi>To the</hi> DVKE.</head>
+                  <l>BVt what need I, Brave Prince, your Acts rehearſe,</l>
+                  <l>Which are become the Winds charge to diſperſe?</l>
+                  <l>Tritons and Sea-Nymphs ſound and ſing your Name.</l>
+                  <l>The waves to every ſhore report your Fame;</l>
+                  <l>At your command the Surges riſe and fall,</l>
+                  <l>While <hi>Neptune</hi> acts but your Vice-Admiral.</l>
+                  <l>And Silver <hi>Thetis</hi> covering her face,</l>
+                  <l>To your Fair Dutcheſs hath reſign'd her place.</l>
+               </lg>
+            </div>
+            <trailer>THE END</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:99154:6"/>
+            <pb n="1" facs="tcp:99154:6"/>
+            <head>
+               <hi>Spoken to the</hi> KING <hi>and</hi> QUEEN <hi>in</hi> S<hi rend="sup">t</hi> John's Library.</head>
+            <lg>
+               <l>BIrds have found Language, Elephants a Knee</l>
+               <l>To Complement the approach of Majeſty:</l>
+               <l>None ſo much ſtatue but (like <hi>Memnons</hi>) playes</l>
+               <l>Anthems to welcome ſuch illuſtrious rayes.</l>
+            </lg>
+            <lg>
+               <l>Your preſence, <hi>Madam,</hi> here doth paralel</l>
+               <l>Our Baptiſts deſert to a <hi>Boſcobel.</hi>
+               </l>
+               <l>Our Mother glories that your ſmiles upon her</l>
+               <l>Create her Virgin Muſes maids of Honour.</l>
+               <l>Your ſtation 'twixt theſe Globes doth prompt our pen</l>
+               <l>To fanſie Princes plac'd 'twixt Gods and men;</l>
+               <l>Here men, there Angels ply their different Spheres,</l>
+               <l>Our houſe of Commons, and your Houſe of Peers.</l>
+               <l>May your laſt progreſs here reach <hi>Neſtor's</hi> Summe,</l>
+               <l>Till the Supreme Star-Chamber call you home:</l>
+               <l>Whil'ſt Angels propagate, and you diſplay</l>
+               <l>A little CHARLES his Waine, and Milky Way:</l>
+               <l>Theſe Aſteriſmes are only wanting yet</l>
+               <l>To make <hi>VVhite-Hall</hi> a Heaven, and Heaven complete.</l>
+               <l>Perfection, Madam, from your ſelf muſt grow:</l>
+               <l>Kings are Immortal, but Queens make them ſo.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="2" facs="tcp:99154:7"/>
+            <head>To her Highneſs the <hi>DVTCHESSE</hi> of YORK in the ſame place.</head>
+            <lg>
+               <l>IF Duty without Compliment may ſtand,</l>
+               <l>And they who can but kneel, may kiſs your Hand:</l>
+               <l>If Muſes Country Girles their skil may try,</l>
+               <l>Though't ſpoile an Honour to a Courteſie:</l>
+               <l>Wee'd rally all our forces to expreſs</l>
+               <l>Your Nobleſt Welcome in a plain addreſs:</l>
+               <l>
+                  <hi>Mars</hi> wee'd aſſign your Guard, but that we are</l>
+               <l>Aſſur'd, your DUKES a greater God of War:</l>
+               <l>The Graces to attend you wee'd call forth,</l>
+               <l>But that th' are all ingroſs'd in your own worth;</l>
+               <l>And <hi>Venus</hi> with her <hi>Cupid</hi> too ſhould come,</l>
+               <l>But that you have a ſweeter Prince at home:</l>
+               <l>Thus Poets Dream, and Muſes fancy leſs</l>
+               <l>Then what Fates judg you worthy to poſſeſs:</l>
+            </lg>
+            <lg>
+               <l>Our <hi>Pegaſus</hi> with duty wing'd we ſhow,</l>
+               <l>Others may higher fly, none ſtoop ſo low.</l>
+            </lg>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:99154:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
